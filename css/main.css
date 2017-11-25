@@ -1,6 +1,7 @@
 img {
     width: 50%;
-    position: centre;
+    display: block;
+    margin: auto;
 }
 
 ul {
